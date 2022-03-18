@@ -1,0 +1,38 @@
+*{
+    font-family: "Monstserat", sans-serif;
+}
+
+
+#home-title{
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    font-size: 80px;
+
+}
+
+#home-picture{
+    width: 100%;
+    height: auto;
+}
+
+#lasagna{
+    color: green;
+    font-size: 30px;
+}
+
+.title{
+    font-size: 50px;
+    color: rgb(255, 115, 0);
+}
+
+.las{
+    background-color: red;
+}
+
+#top, 
+#bot{
+    font-size: 30px;
+    background-color: greenyellow;
+
+}
